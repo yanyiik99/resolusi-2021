@@ -1,6 +1,6 @@
 Hai Perkenalkan saya yanyiik
 Saya akan membaut sebuah resolusi tentang kehidupan kedepannya di tahun 2021
 - Saya harus kuliah di tahun 2021 dan menjadi mahasiswa baru
-- Java Script DOM (Document Object Model)
+- Java Script Dasar harus selesai
 - Harus lulus kelas menengah DICODING
 - Membahagiakan Kedua orang tua
